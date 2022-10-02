@@ -1,4 +1,6 @@
-ojoergens OliviaJoergens
+ojoergens Olivia Joergens
 Uchicago CS Git Tutorial 
-Git is pretty cool
+
+
+
 
